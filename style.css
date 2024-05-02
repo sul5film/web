@@ -1,0 +1,22 @@
+
+*{margin:0; padding:0;}
+
+ul{list-style: none;}
+
+a:link, a:visited{color:#333;text-decoration: none;}
+
+#fullpage .section:nth-child(1){
+    background-color: lightcoral;
+}
+#fullpage .section:nth-child(2){
+    background-color: lightgreen;
+}
+#fullpage .section:nth-child(3){
+    background-color: lightgoldenrodyellow;
+}
+#fullpage .section:nth-child(4){
+    background-color: lightskyblue;
+}
+
+
+    
